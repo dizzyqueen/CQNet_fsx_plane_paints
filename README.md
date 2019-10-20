@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to the ComputerQueen.Net GitHub Repository of Flight Simulator X Aircraft Repaints
+All the Aircraft Texture Repaints are in the ComputerQueen.Net Livery V2.0 created by Kevin Harrington.  These are for aircraft installed into Microsoft Flight Simulator X: Steam Edition (FSX-SE), and encompass repaints for both Default and Add-On Aircraft.  Credit will be given to the developer of the aircraft model, whenever possible, insode the specific model texture folder.
 
-You can use the [editor on GitHub](https://github.com/dizzyqueen/CQNet_fsx_plane_paints/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dizzyqueen/CQNet_fsx_plane_paints/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Contact the repository owner, Kevin Harrington, for any support issues <a href="mailto:kevin@computerqueen.net">here</a>.
