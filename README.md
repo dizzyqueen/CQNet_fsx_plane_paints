@@ -3,7 +3,7 @@ All the Aircraft Texture Repaints are in the ComputerQueen.Net Livery V2.0 creat
 
 ## Examples
 ### CQ.Net A321 (Aerosoft)
-<IMG src="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/blob/master/N321CQ%20-%20005.png">
+<IMG src="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/blob/master/N321CQ-005.png">
 
 
 
