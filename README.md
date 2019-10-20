@@ -3,16 +3,16 @@ All the Aircraft Texture Repaints are in the ComputerQueen.Net Livery V2.0 creat
 
 ## Examples
 ### CQ.Net A321 (Aerosoft)
-<IMG src="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/blob/master/N321CQ-005.png" height="277" width="512">
+<IMG src="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/blob/master/N321CQ-005.png" style="width:512px;height:277px;">
   
 ### CQ.Net B737-800 (FSX Default)
-<IMG src="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/blob/master/N738CQ-003.png" height="277" width="512">
+<IMG src="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/blob/master/N738CQ-003.png" style="width:512px;height:277px;">
   
 ### CQ.Net B737-MAX 8 (TDS)
-<IMG src="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/blob/master/N738CM-008.PNG" height="277" width="512">
+<IMG src="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/blob/master/N738CM-008.PNG" style="width:512px;height:277px;">
 
 ### CQ.Net MD-90 (SGA)
-<img src="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/blob/master/N790CQ-001.png" height="277" width="512">
+<img src="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/blob/master/N790CQ-001.png" style="width:512px;height:277px;">
 
 
 ### Support or Contact
