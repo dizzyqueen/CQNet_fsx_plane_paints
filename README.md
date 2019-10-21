@@ -2,7 +2,7 @@
 All the Aircraft Texture Repaints are in the ComputerQueen.Net Livery V2.0 created by Kevin Harrington.  These are for aircraft installed into Microsoft Flight Simulator X: Steam Edition (FSX-SE), and encompass repaints for both Default and Add-On Aircraft.  Credit will be given to the developer of the aircraft model, whenever possible, insode the specific model texture folder.
 
 ## Examples
-### CQ.Net A321 (Aerosoft)
+### <a href="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/tree/master/CQ_A321">CQ.Net A321 (Aerosoft)</a>
 <IMG src="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/blob/master/N321CQ-005.png" style="width:512px;height:277px;">
   
 ### CQ.Net B737-800 (FSX Default)
