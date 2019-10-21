@@ -5,3 +5,4 @@
 
 Model and Paint Kit developed by <a href="https://www.flightsim.com/vbfs/content.php?17371-Freeware-Focus-Tenkuu-Developers-Studio">Tenkuu Developers Studio</a>.  Paint Kit amdf Model updates fpimd om tje <a href="https://www.facebook.com/groups/TDS.SkySpirit.B737NG/">TDS 737v2 Support Group</a> on Facebook.  Special Thanks to TDS Model Developer **Hiroshi Igami** for his prompt and friendly support with the repaint.
 
+Model Install package is available on <a href="https://www.flightsim.com/vbfs/fslib.php?searchid=73661560#comments_start"> FlightSim.com (Direct Link)</a>.
