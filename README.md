@@ -17,6 +17,9 @@ All the Aircraft Texture Repaints are in the ComputerQueen.Net Livery V2.0 creat
 ### <a href="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/tree/master/CQ_MD-83">CQ.Net MD-83 (FSND)</a>
 <IMG SRC="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/blob/master/N717CQ-002.png" style="width:512px;height:277px;">
 
+### <a href="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/tree/master/CQ_B744LCF">CQ.Net Boeing 747-400 LCF (POSKY)</A>
+<IMG SRC="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/blob/master/N744BQ-005.png" style="width:512px;height:277px;">
+
 ### Support or Contact
 
 Contact the repository owner, Kevin Harrington, for any support issues <a href="mailto:kevin@computerqueen.net">here</a>.
