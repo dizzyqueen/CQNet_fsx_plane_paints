@@ -2,21 +2,20 @@
 All the Aircraft Texture Repaints are in the ComputerQueen.Net Livery V2.0 created by Kevin Harrington.  These are for aircraft installed into Microsoft Flight Simulator X: Steam Edition (FSX-SE), and encompass repaints for both Default and Add-On Aircraft.  Credit will be given to the developer of the aircraft model, whenever possible, insode the specific model texture folder.
 
 ## Examples
-### CQ.Net A321 (Aerosoft)
+### <a href="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/tree/master/CQ_A321">CQ.Net A321 (Aerosoft)</a>
 <IMG src="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/blob/master/N321CQ-005.png" style="width:512px;height:277px;">
   
-### CQ.Net B737-800 (FSX Default)
+### <a href="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/tree/master/CQ_B738">CQ.Net B737-800 (FSX Default)</a>
 <IMG src="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/blob/master/N738CQ-003.png" style="width:512px;height:277px;">
   
-### CQ.Net B737-MAX 8 (TDS)
+### <a href="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/tree/master/CQ_B737-MAX8">CQ.Net B737-MAX 8 (TDS)</a>
 <IMG src="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/blob/master/N738CM-008.PNG" style="width:512px;height:277px;">
 
-### CQ.Net MD-90 (SGA)
+### <a href="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/tree/master/CQ_MD-90">CQ.Net MD-90 (SGA)</a>
 <img src="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/blob/master/N790CQ-001.png" style="width:512px;height:277px;">
 
-### CQ.Net MD-83 (FSND)
-<IMG SRC="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/blob/master/314160_screenshots_20190813031721_1.jpg">
-  
+### <a href="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/tree/master/CQ_MD-83">CQ.Net MD-83 (FSND)</a>
+<IMG SRC="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/blob/master/N717CQ-002.png" style="width:512px;height:277px;">
 
 ### Support or Contact
 
