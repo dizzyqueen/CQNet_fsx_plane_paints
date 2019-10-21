@@ -15,7 +15,8 @@ All the Aircraft Texture Repaints are in the ComputerQueen.Net Livery V2.0 creat
 <img src="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/blob/master/N790CQ-001.png" style="width:512px;height:277px;">
 
 ### CQ.Net MD-83 (FSND)
-...
+<IMG SRC="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/blob/master/314160_screenshots_20190813031721_1.jpg">
+  
 
 ### Support or Contact
 
