@@ -21,7 +21,7 @@ All the Aircraft Texture Repaints are in the ComputerQueen.Net Livery V2.0 creat
 <IMG SRC="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/blob/master/N744BQ-005.png" style="width:512px;height:277px;">
 
 ### <a href="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/tree/master/CQ_B777-9X">CQ.Net Boeing 777-9X (SKYSPIRIT2019-777)</A>
-<IMG SRC="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/blob/master/N779CQ-001.png" style="width:512px;height:277px;">
+<IMG SRC="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/blob/master/N779CQ-001.PNG" style="width:512px;height:277px;">
 
 ### Support or Contact
 
