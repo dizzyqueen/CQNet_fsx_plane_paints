@@ -1,0 +1,26 @@
+Copy the below section into your Aircraft.cfg.  Change the XX in the first line to the next sequential number (in relation to the existing entires in the aircraft.cfg)
+
+
+[fltsim.XX]
+//    0         1         2         3         4         5         6         7         8         9         0         1         2
+//    01234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567
+title=FREEWARE_(C)_TDS_16AUG2013_737MAX2017_LEAPX1B--P2WM_+A7800_+D00_+B0 ComputerQueen.Net
+sim=TDSBoeing737-MAX7
+model=
+panel=
+sound=
+texture=cqn
+kb_checklists=Boeing737-800_check
+kb_reference=Boeing737-800_ref
+atc_id=N737CM
+atc_airline=COMPUTERQUEEN
+atc_flight_number=832
+atc_heavy=0
+atc_parking_types=GATE, RAMP, CARGO
+atc_parking_code=CQN
+ui_manufacturer=Boeing
+ui_type=B737 MAX-7 (2017)
+ui_variation=ComputerQueen.Net
+visual_damage=1
+description=TDS - Boeing 737MAX-7\nVersion - FDE Version FSX\n\nModel Designer\n   Hiroshi Igami\n\nFlight Dynamics/Scenario/Effects Designer\n   Warren C. Daniel\n\nMaster Texture Designer\n   Tom Harlaar\n\nTest Pilots\n   Project Opensky Members \nRepaint by Kevin Harrington \n\nMaximun Range: \n   3,383 nautical miles
+visual_damage=
