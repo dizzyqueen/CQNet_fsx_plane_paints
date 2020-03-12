@@ -1,0 +1,23 @@
+Copy the below section into your Aircraft.cfg.  Change the XX in the first line to the next sequential number (in relation to the existing entires in the aircraft.cfg)
+
+
+[fltsim.XX]
+title=Boeing 737-700 CQ.Net Winglet
+sim=737700
+model=winglet
+panel=
+sound=
+texture=CQN
+kb_checklists=Boeing737-400_check
+kb_reference=Boeing737-400_ref
+atc_id=N737CQ
+atc_airline=COMPUTERQUEEN
+atc_flight_number=212
+ui_manufacturer=Boeing
+ui_type=737-700
+ui_variation=CQ.Net (Winglets)
+ui_typerole="Commercial Airliner"
+ui_createdby="Erick Cantu"
+description=Kittyhawk CQNet 737-700
+atc_heavy=0
+visual_damage=1 

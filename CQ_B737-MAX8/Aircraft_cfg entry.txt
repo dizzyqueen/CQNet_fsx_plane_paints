@@ -1,0 +1,26 @@
+Copy the below section into your Aircraft.cfg.  Change the XX in the first line to the next sequential number (in relation to the existing entires in the aircraft.cfg)
+
+
+[fltsim.XX]
+//    0         1         2         3         4         5         6         7         8         9         0         1         2
+//    01234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567
+title=FREEWARE_(C)_TDS_16AUG2013_738MAX_LEAPX1B--P2WM_+A7000_+D00_+B0 CQ.Net
+sim=TDSBoeing737-MAX8
+model=
+panel=
+sound=
+texture=CQN
+kb_checklists=Boeing737-800_check
+kb_reference=Boeing737-800_ref
+atc_id=N738CM
+atc_airline=COMPUTERQUEEN
+atc_flight_number=2465
+atc_heavy=0
+atc_parking_types=GATE, RAMP, CARGO
+atc_parking_code=CQN
+ui_manufacturer=TDS
+ui_type=Boeing 737-MAX8
+ui_variation=ComputerQueen.Net
+visual_damage=1
+description=The 737Max which Boeing has launched . The first release from us is 737Max8 which is the most popular model in this series. Basic info : 737Max is a re-engined and aerodynamically refined model of 737Next Generation series. Series is 737Max7 , Max8, Max9. New engine is Leap-X1B and for putting this huge engine , nose gear is extended. Also for making less drag , tail sections shape is changed . Wingtip design is also changed to Y shape to make less drag and also for having more lifts.
+visual_damage=
