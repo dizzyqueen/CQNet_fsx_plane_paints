@@ -1,0 +1,19 @@
+Copy the below section into your Aircraft.cfg.  Change the XX in the first line to the next sequential number (in relation to the existing entires in the aircraft.cfg)
+
+
+[fltsim.XX]
+title=FSPXAI Airbus A350-900 ComputerQueen.Net
+sim=FSPXAI_A350900v1
+model=Bump
+texture=CQN
+atc_airline=COMPUTERQUEEN
+atc_flight_number=350
+atc_id=N350CQ
+atc_heavy=1
+atc_parking_types=GATE, RAMP
+atc_parking_codes=CQN
+ui_createdby="FSpainter"
+ui_manufacturer="Airbus"
+ui_type=A350-900XWB 
+ui_variation=ComputerQueen.Net
+visual_damage=1
