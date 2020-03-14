@@ -1,5 +1,5 @@
 ## Welcome to the ComputerQueen.Net GitHub Repository of Flight Simulator X Aircraft Repaints
-All the Aircraft Texture Repaints are in the ComputerQueen.Net Livery V2.0 created by Kevin Harrington.  These are for aircraft installed into Microsoft Flight Simulator X: Steam Edition (FSX-SE), and encompass repaints for both Default and Add-On Aircraft.  Credit will be given to the developer of the aircraft model, whenever possible, insode the specific model texture folder.
+All the Aircraft Texture Repaints are in the ComputerQueen.Net Livery V2.0 created by Kevin Harrington.  These are for aircraft installed into Microsoft Flight Simulator X: Steam Edition (FSX-SE), and encompass repaints for both Default and Add-On Aircraft.  Credit will be given to the developer of the aircraft model, whenever possible, inside the specific model texture folder's README.md file.
 
 ## Examples
 ### <a href="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/tree/master/CQ_A320SL">CQ.Net A320neo (CFM Sharklets) (Aerosoft)</a>
