@@ -1,0 +1,26 @@
+Copy the below section into your Aircraft.cfg.  Change the XX in the first line to the next sequential number (in relation to the existing entires in the aircraft.cfg)
+
+
+[fltsim.XX]
+//    0         1         2         3         4         5         6         7         8         9         0         1         2
+//    01234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567
+title=FREEWARE_(C)_TDS_16AUG2013_730MAX_LEAP1B-2017--P2WM_+AFF20_+D00_+B1 FBE
+sim=TDSBoeing737-MAX9
+model=
+panel=
+sound=
+texture=FBE
+kb_checklists=Boeing737-800_check
+kb_reference=Boeing737-800_ref
+atc_id=N730CN
+atc_airline=FUZZLEBUTT
+atc_flight_number=730
+atc_heavy=0
+atc_parking_types=GATE, RAMP, CARGO
+atc_parking_code=FBE
+ui_manufacturer=TDS/CQNet
+ui_type=737 MAX 10
+ui_variation=Fuzzlebutt Express
+visual_damage=1
+description=The Boeing 737NG is Boeing's 3rd generation and latest addition to their 737 lineup.  The 737 is a short to medium range, single-isle airliner, which started production in 1996 and entered service in 1998.  There are 4 basic variants to the 737NG, which can seat 110 and 210 passengers.  It is also available as a cargo aircraft, a quick convertible aircraft, maritime patrol, military airborne radar, and a business jet.  Over 4,500 737NG airframes have been sold and delivered around the world.
+visual_damage=0
