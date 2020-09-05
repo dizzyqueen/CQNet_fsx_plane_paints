@@ -10,9 +10,21 @@ All the Aircraft Texture Repaints are in the ComputerQueen.Net Livery V2.0 creat
   
 ### <a href="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/tree/master/CQ_B738">CQ.Net B737-800 (FSX Default)</a>
 <IMG src="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/blob/master/N738CQ-003.png" style="width:512px;height:277px;">
+
+### <a href="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/tree/master/CQ_B737-MAX7">CQ.Net B737-MAX 7 (TDS)</a>
+<IMG src="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/blob/master/N737CM-001.png" style="width:512px;height:277px;">
   
 ### <a href="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/tree/master/CQ_B737-MAX8">CQ.Net B737-MAX 8 (TDS)</a>
 <IMG src="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/blob/master/N738CM-008.PNG" style="width:512px;height:277px;">
+  
+### <a href="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/tree/master/CQ_B737-MAX9">CQ.Net B737-MAX 9 (TDS)</a>
+<IMG src="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/blob/master/N739CM-041.png" style="width:512px;height:277px;">
+  
+### <a href="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/tree/master/CQ_B737-MAX10">CQ.Net B737-MAX 10 (TDS)</a>
+<IMG src="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/blob/master/N730CQ-001.png" style="width:512px;height:277px;">
+  
+### <a href="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/tree/master/FBE_B737-MAX9">FuzzleButt Express B737-MAX 10 (TDS)</a>
+<IMG src="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/blob/master/N730CN-005.png" style="width:512px;height:277px;">
 
 ### <a href="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/tree/master/CQ_MD-90">CQ.Net MD-90 (SGA)</a>
 <img src="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/blob/master/N790CQ-001.png" style="width:512px;height:277px;">
@@ -29,11 +41,7 @@ All the Aircraft Texture Repaints are in the ComputerQueen.Net Livery V2.0 creat
 ### <a href="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/tree/master/CQ_B737-700">CQ.Net B737-700 (Kitty Hawk)</a>
 <IMG src="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/blob/master/N737CQ-001.png" style="width:512px;height:277px;">
 
-### <a href="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/tree/master/CQ_B737-MAX7">CQ.Net B737-MAX 7 (TDS)</a>
-<IMG src="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/blob/master/N737CM-001.png" style="width:512px;height:277px;">
-  
-### <a href="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/tree/master/CQ_B737-MAX9">CQ.Net B737-MAX 9 (TDS)</a>
-<IMG src="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/blob/master/N739CM-041.png" style="width:512px;height:277px;">
+
   
 ### <a href="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/tree/master/CQ_A350-900">CQ.Net Airbus A350-900XWB (FSPainter)</a>
 <IMG src="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/blob/master/N350CQ-001.png" style="width:512px;height:277px;">
