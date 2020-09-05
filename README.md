@@ -15,7 +15,7 @@ All the Aircraft Texture Repaints are in the ComputerQueen.Net Livery V2.0 creat
 <IMG src="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/blob/master/N737CM-001.png" style="width:512px;height:277px;">
   
 ### <a href="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/tree/master/CQ_B737-MAX8">CQ.Net B737-MAX 8 (TDS)</a>
-<IMG src="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/blob/master/N738CM-008.PNG" style="width:512px;height:277px;">
+<IMG src="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/blob/master/N738CQ-008.PNG" style="width:512px;height:277px;">
   
 ### <a href="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/tree/master/CQ_B737-MAX9">CQ.Net B737-MAX 9 (TDS)</a>
 <IMG src="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/blob/master/N739CM-041.png" style="width:512px;height:277px;">
