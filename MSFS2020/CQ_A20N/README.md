@@ -1,7 +1,7 @@
 ## COMPUTERQUEEN.NET AIRBUS A320neo (Asobo Studios)
 
 ### Airbus A320neo (Asobo/MSFS2020) ... Textures for the CQ.Net Livery
-<img src="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/blob/master/CQ_A320SL/thumbnail.jpg" >
+<img src="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/blob/master/CMSFS2020/CQ_A20N/thumbnail.jpg" >
 
 Model and Paint Kit developed by <a href="https://flightsim.to/file/3707/a320-neo-8k-paint-kit-psd-format">xxGoneAStrayxx</a>.
 
