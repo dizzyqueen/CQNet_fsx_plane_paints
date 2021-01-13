@@ -1,7 +1,15 @@
-## Welcome to the ComputerQueen.Net GitHub Repository of Flight Simulator X Aircraft Repaints
+## Welcome to the ComputerQueen.Net GitHub Repository of Flight Simulator X and MSFS2020 Aircraft Repaints
 All the Aircraft Texture Repaints are in the ComputerQueen.Net Livery V2.0 created by Kevin Harrington.  These are for aircraft installed into Microsoft Flight Simulator X: Steam Edition (FSX-SE), and encompass repaints for both Default and Add-On Aircraft.  Credit will be given to the developer of the aircraft model, whenever possible, inside the specific model texture folder's README.md file.
 
 ## Examples
+
+## Microsoft Flight Simulator (2020)
+### CQ.Net A320neo (Asobo / Microsoft)
+
+
+more to come ....
+
+## Microsoft Flight Simulator X
 ### <a href="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/tree/master/CQ_A320SL">CQ.Net A320neo (CFM Sharklets) (Aerosoft)</a>
 <IMG src="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/blob/master/N320CQ.png" style="width:512px;height:277px;">
   
@@ -40,9 +48,7 @@ All the Aircraft Texture Repaints are in the ComputerQueen.Net Livery V2.0 creat
 
 ### <a href="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/tree/master/CQ_B737-700">CQ.Net B737-700 (Kitty Hawk)</a>
 <IMG src="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/blob/master/N737CQ-001.png" style="width:512px;height:277px;">
-
-
-  
+ 
 ### <a href="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/tree/master/CQ_A350-900">CQ.Net Airbus A350-900XWB (FSPainter)</a>
 <IMG src="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/blob/master/N350CQ-001.png" style="width:512px;height:277px;">
 
