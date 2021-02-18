@@ -1,0 +1,16 @@
+{
+    "dependencies": [],
+    "content_type": "AIRCRAFT",
+    "title": "ComputerQueen.Net CJ4",
+    "manufacturer": "Textron Aviation",
+    "creator": "DizzyQueenCA",
+    "package_version": "0.1.38",
+    "minimum_game_version": "1.7.12",
+    "release_notes": {
+        "neutral": {
+            "LastUpdate": "",
+            "OlderHistory": ""
+        }
+    },
+    "total_package_size": "00000000000023843715"
+}

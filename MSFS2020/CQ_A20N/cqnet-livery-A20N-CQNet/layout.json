@@ -1,104 +1,94 @@
 {
   "content": [
     {
-      "path": "SimObjects/AirPlanes/ASOBO_A320_NEO_CQNet/aircraft.cfg",
-      "size": 4139,
-      "date": 132499513651653683
+      "path": "build.py",
+      "size": 1206,
+      "date": 132483610786621227
     },
     {
-      "path": "SimObjects/AirPlanes/ASOBO_A320_NEO_CQNet/MODEL/model.CFG",
-      "size": 268,
-      "date": 132441960080000000
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-ComputerQueen.Net/aircraft.cfg",
+      "size": 1952,
+      "date": 132567608730784966
     },
     {
-      "path": "SimObjects/AirPlanes/ASOBO_A320_NEO_CQNet/MODEL.AI_CQNet/model.CFG",
-      "size": 236,
-      "date": 132441960080000000
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-ComputerQueen.Net/model.ComputerQueen.Net/model.cfg",
+      "size": 292,
+      "date": 132567604441024895
     },
     {
-      "path": "SimObjects/AirPlanes/ASOBO_A320_NEO_CQNet/TEXTURE.CQNet/A320NEO_AIRFRAME_ENGINES_ALBD.PNG.dds",
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-ComputerQueen.Net/TEXTURE.ComputerQueen.Net/A320NEO_AIRFRAME_ENGINES_ALBD.PNG.dds",
       "size": 2097280,
       "date": 132446311745591604
     },
     {
-      "path": "SimObjects/AirPlanes/ASOBO_A320_NEO_CQNet/TEXTURE.CQNet/A320NEO_AIRFRAME_ENGINES_ALBD.PNG.DDS.json",
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-ComputerQueen.Net/TEXTURE.ComputerQueen.Net/A320NEO_AIRFRAME_ENGINES_ALBD.PNG.DDS.json",
       "size": 102,
       "date": 132425416060000000
     },
     {
-      "path": "SimObjects/AirPlanes/ASOBO_A320_NEO_CQNet/TEXTURE.CQNet/A320NEO_AIRFRAME_FUSELAGE_ALBD.PNG",
-      "size": 0,
-      "date": 132425425840000000
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-ComputerQueen.Net/TEXTURE.ComputerQueen.Net/A320NEO_AIRFRAME_FUSELAGE_ALBD.PNG.dds",
+      "size": 4194432,
+      "date": 132580197372831360
     },
     {
-      "path": "SimObjects/AirPlanes/ASOBO_A320_NEO_CQNet/TEXTURE.CQNet/A320NEO_AIRFRAME_FUSELAGE_ALBD.PNG.dds",
-      "size": 2796344,
-      "date": 132474935125386033
-    },
-    {
-      "path": "SimObjects/AirPlanes/ASOBO_A320_NEO_CQNet/TEXTURE.CQNet/A320NEO_AIRFRAME_FUSELAGE_ALBD.PNG.DDS.json",
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-ComputerQueen.Net/TEXTURE.ComputerQueen.Net/A320NEO_AIRFRAME_FUSELAGE_ALBD.PNG.DDS.json",
       "size": 102,
       "date": 132425416060000000
     },
     {
-      "path": "SimObjects/AirPlanes/ASOBO_A320_NEO_CQNet/TEXTURE.CQNet/A320NEO_AIRFRAME_LIVERY_ALBD.PNG.dds",
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-ComputerQueen.Net/TEXTURE.ComputerQueen.Net/A320NEO_AIRFRAME_LIVERY_ALBD.PNG.dds",
       "size": 2097280,
       "date": 132441718046223359
     },
     {
-      "path": "SimObjects/AirPlanes/ASOBO_A320_NEO_CQNet/TEXTURE.CQNet/A320NEO_AIRFRAME_LIVERY_ALBD.PNG.DDS.json",
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-ComputerQueen.Net/TEXTURE.ComputerQueen.Net/A320NEO_AIRFRAME_LIVERY_ALBD.PNG.DDS.json",
       "size": 119,
       "date": 132425416060000000
     },
     {
-      "path": "SimObjects/AirPlanes/ASOBO_A320_NEO_CQNet/TEXTURE.CQNet/A320NEO_AIRFRAME_LIVERY_TEXTS_ALBD.PNG.dds",
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-ComputerQueen.Net/TEXTURE.ComputerQueen.Net/A320NEO_AIRFRAME_LIVERY_TEXTS_ALBD.PNG.dds",
       "size": 5592580,
       "date": 132425420140000000
     },
     {
-      "path": "SimObjects/AirPlanes/ASOBO_A320_NEO_CQNet/TEXTURE.CQNet/A320NEO_AIRFRAME_LIVERY_TEXTS_ALBD.PNG.DDS.json",
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-ComputerQueen.Net/TEXTURE.ComputerQueen.Net/A320NEO_AIRFRAME_LIVERY_TEXTS_ALBD.PNG.DDS.json",
       "size": 119,
       "date": 132425416060000000
     },
     {
-      "path": "SimObjects/AirPlanes/ASOBO_A320_NEO_CQNet/TEXTURE.CQNet/A320NEO_AIRFRAME_WINGS_ALBD.PNG",
-      "size": 5592580,
-      "date": 132425420060000000
-    },
-    {
-      "path": "SimObjects/AirPlanes/ASOBO_A320_NEO_CQNet/TEXTURE.CQNet/A320NEO_AIRFRAME_WINGS_ALBD.PNG.dds",
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-ComputerQueen.Net/TEXTURE.ComputerQueen.Net/A320NEO_AIRFRAME_WINGS_ALBD.PNG.dds",
       "size": 2097280,
       "date": 132440272019623104
     },
     {
-      "path": "SimObjects/AirPlanes/ASOBO_A320_NEO_CQNet/TEXTURE.CQNet/A320NEO_AIRFRAME_WINGS_ALBD.PNG.DDS.json",
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-ComputerQueen.Net/TEXTURE.ComputerQueen.Net/A320NEO_AIRFRAME_WINGS_ALBD.PNG.DDS.json",
       "size": 102,
       "date": 132425416080000000
     },
     {
-      "path": "SimObjects/AirPlanes/ASOBO_A320_NEO_CQNet/TEXTURE.CQNet/A320NEO_COCKPIT_MAINPANEL_ALBD.PNG.dds",
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-ComputerQueen.Net/TEXTURE.ComputerQueen.Net/A320NEO_COCKPIT_MAINPANEL_ALBD.PNG.dds",
       "size": 11184952,
       "date": 132526521324347294
     },
     {
-      "path": "SimObjects/AirPlanes/ASOBO_A320_NEO_CQNet/TEXTURE.CQNet/A320NEO_COCKPIT_MAINPANEL_ALBD.PNG.DDS.json",
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-ComputerQueen.Net/TEXTURE.ComputerQueen.Net/A320NEO_COCKPIT_MAINPANEL_ALBD.PNG.DDS.json",
       "size": 102,
       "date": 132448763894477755
     },
     {
-      "path": "SimObjects/AirPlanes/ASOBO_A320_NEO_CQNet/TEXTURE.CQNet/texture.CFG",
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-ComputerQueen.Net/TEXTURE.ComputerQueen.Net/texture.cfg",
       "size": 221,
       "date": 132441960080000000
     },
     {
-      "path": "SimObjects/AirPlanes/ASOBO_A320_NEO_CQNet/TEXTURE.CQNet/thumbnail.jpg",
-      "size": 48721,
-      "date": 132505068565924658
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-ComputerQueen.Net/TEXTURE.ComputerQueen.Net/thumbnail.jpg",
+      "size": 58828,
+      "date": 132580989541485191
     },
     {
-      "path": "SimObjects/AirPlanes/ASOBO_A320_NEO_CQNet/TEXTURE.CQNet/thumbnail_small.jpg",
-      "size": 10533,
-      "date": 132505068566204645
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-ComputerQueen.Net/TEXTURE.ComputerQueen.Net/thumbnail_small.jpg",
+      "size": 14577,
+      "date": 132580989541795377
     }
   ]
 }

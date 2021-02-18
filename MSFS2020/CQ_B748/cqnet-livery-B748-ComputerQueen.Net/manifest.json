@@ -1,0 +1,15 @@
+{
+    "dependencies": [],
+    "content_type": "LIVERY",
+    "title": "747-8 Intercontinental ComputerQueen.Net",
+    "manufacturer": "Boeing",
+    "creator": "DizzyQueenCA",
+    "package_version": "0.1.5",
+    "minimum_game_version": "1.12.12",
+    "release_notes": {
+        "neutral": {
+            "LastUpdate": "",
+            "OlderHistory": ""
+        }
+    }
+}

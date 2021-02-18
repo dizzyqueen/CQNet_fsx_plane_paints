@@ -5,13 +5,28 @@ All the Aircraft Texture Repaints are in the ComputerQueen.Net Livery V2.0 creat
 
 ## Microsoft Flight Simulator (2020)
 ### <a href="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/tree/master/MSFS2020/CQ_A20N">CQ.Net A320neo (Asobo / Microsoft)</a>
-<IMG src="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/blob/master/MSFS2020/CQ_A20N/thumbnail.jpg" style="width:512px;height:186px;">
+<IMG src="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/blob/master/N320CQ.PNG" style="width:512px;height:186px;">
+
+### <a href="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/tree/master/MSFS2020/CQ_B748">CQ.Net B747-8i (Asobo / Microsoft)</a>
+<IMG src="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/blob/master/N748CQ.PNG" style="width:512px;height:186px;">
+
+### <a href="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/tree/master/MSFS2020/CQ_B350">CQ.Net Kingair 350 (Asobo / Microsoft)</a>
+<IMG src="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/blob/master/N350CQ.PNG" style="width:512px;height:186px;">
+
+### <a href="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/tree/master/MSFS2020/CQ_C25C">CQ.Net CJ4 (Asobo / Microsoft)</a>
+<IMG src="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/blob/master/N004CQ.PNG" style="width:512px;height:186px;">
+
+### <a href="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/tree/master/MSFS2020/CQ_C208">CQ.Net C208B (Asobo / Microsoft)</a>
+<IMG src="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/blob/master/N208CQ.PNG" style="width:512px;height:186px;">
+
+### <a href="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/tree/master/MSFS2020/CQ_TBM9">CQ.Net TBM-900 (Asobo / Microsoft)</a>
+<IMG src="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/blob/master/N930CQ.PNG" style="width:512px;height:186px;">
 
 more to come ....
 
 ## Microsoft Flight Simulator X
 ### <a href="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/tree/master/CQ_A320SL">CQ.Net A320neo (CFM Sharklets) (Aerosoft)</a>
-<IMG src="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/blob/master/N320CQ.png" style="width:512px;height:277px;">
+<IMG src="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/blob/master/N320CQ-1.png" style="width:512px;height:277px;">
   
 ### <a href="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/tree/master/CQ_A321">CQ.Net A321 (Aerosoft)</a>
 <IMG src="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/blob/master/N321CQ-005.png" style="width:512px;height:277px;">
