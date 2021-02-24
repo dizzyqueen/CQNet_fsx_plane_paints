@@ -4,8 +4,12 @@ All the Aircraft Texture Repaints are in the ComputerQueen.Net Livery V2.0 creat
 ## Examples
 
 ## Microsoft Flight Simulator (2020)
-### <a href="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/tree/master/MSFS2020/CQ_A20N">CQ.Net A320neo (Asobo / Microsoft)</a>
+### <a href="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/tree/master/MSFS2020/CQ_A20N">CQ.Net A320neo (Asobo / Microsoft) - 2 Variants</a>
+### Passenger
 <IMG src="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/blob/master/N320CQ.png" style="width:512px;height:186px;">
+
+### Caargo
+<IMG src="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/blob/master/N320CC.png" style="width:512px;height:186px;">
 
 ### <a href="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/tree/master/MSFS2020/CQ_B748">CQ.Net B747-8i (Asobo / Microsoft)</a>
 <IMG src="https://github.com/dizzyqueen/CQNet_fsx_plane_paints/blob/master/N748CQ.PNG" style="width:512px;height:186px;">

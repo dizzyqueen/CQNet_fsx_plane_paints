@@ -1,6 +1,6 @@
 {
     "dependencies": [],
-    "content_type": "LIVERY",
+    "content_type": "AIRCRAFT",
     "title": "A320neo ComputerQueen.Net",
     "manufacturer": "Airbus",
     "creator": "DizzyQueenCA",
@@ -12,5 +12,5 @@
             "OlderHistory": ""
         }
     },
-    "total_package_size": "00000000000025943422"
+    "total_package_size": "00000000000025283605"
 }

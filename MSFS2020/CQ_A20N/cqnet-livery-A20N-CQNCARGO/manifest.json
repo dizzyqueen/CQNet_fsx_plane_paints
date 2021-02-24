@@ -1,0 +1,16 @@
+{
+    "dependencies": [],
+    "content_type": "AIRCRAFT",
+    "title": "A320neo ComputerQueen.Net Cargo",
+    "manufacturer": "Airbus",
+    "creator": "DizzyQueenCA",
+    "package_version": "0.1.5",
+    "minimum_game_version": "1.12.12",
+    "release_notes": {
+        "neutral": {
+            "LastUpdate": "",
+            "OlderHistory": ""
+        }
+    },
+    "total_package_size": "00000000000026725523"
+}
