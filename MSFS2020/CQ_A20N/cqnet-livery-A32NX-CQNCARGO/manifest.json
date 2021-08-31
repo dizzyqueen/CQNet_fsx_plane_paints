@@ -1,0 +1,16 @@
+{
+    "dependencies": [],
+    "content_type": "AIRCRAFT",
+    "title": "FBW A320neo ComputerQueen.Net Cargo",
+    "manufacturer": "Airbus",
+    "creator": "DizzyQueenCA",
+    "package_version": "1.1.6",
+    "minimum_game_version": "1.12.12",
+    "release_notes": {
+        "neutral": {
+            "LastUpdate": "20210722",
+            "OlderHistory": ""
+        }
+    },
+    "total_package_size": "00000000000141516188"
+}
