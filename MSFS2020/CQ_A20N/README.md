@@ -14,4 +14,4 @@ Paint Kit developed by <a href="https://flightsim.to/file/3707/a320-neo-8k-paint
 Cockpit Textures are based on the <a href="https://flightsim.to/file/7872/carbon-design-cockpit-fixed">Separated Carbon BlackSeatFloor Color Design Cockpit 
 by KingRami777</a>
 
-Model is included in all versions of Microsoft Flight Simulator 2020.
+Requires the <a href="https://flybywiresim.com/">Flybywire Simulations A32NX</a> addon.
